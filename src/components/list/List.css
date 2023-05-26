@@ -1,0 +1,46 @@
+.bg-dark {
+	background-color: #041324 !important;
+}
+.bg-dark-1 {
+	background-color: #05192f !important;
+}
+.bg-dark-500 {
+	background-color: rgba(140, 104, 205, 0.05) !important;
+}
+.border-dark-1 {	
+	border-color: #2a4562 !important;
+}
+.accordion-header {
+	background-color: #041324 !important;
+	color: #fff !important;
+	border: 1px solid #041324 !important;
+}
+.w-80 {
+	width: 80px !important;
+}
+.bg-outline-danger {
+	background-color: #ff110036 !important;
+	border: 1px solid #912119 !important;
+	color: lightgrey !important;
+}
+.bg-outline-success {
+	background-color: #4caf506b;
+	border: 1px solid #4caf50;
+	color: lightgray !important;
+}
+.bg-outline-warning {
+	background-color: #ff980040 !important;
+	border: 1px solid #ff9800 !important;
+	color: lightgray !important;
+}
+.bg-outline-info,
+.btn-outline-info {
+	background-color: #2195f334 !important;
+	border: 1px solid #2196f3 !important;
+	color: lightgray !important;
+}
+.btn-outline-info:hover {
+	background-color: #2196f3 !important;
+	border: 1px solid #2196f3 !important;
+	color: #05192f !important;
+}
